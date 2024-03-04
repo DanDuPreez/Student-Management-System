@@ -1,5 +1,3 @@
-from idlelib.search import SearchDialog
-
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import (QApplication, QLabel, QWidget, QGridLayout, QLineEdit, QPushButton, QMainWindow,
                              QTableWidget, QTableWidgetItem, QDialog, QVBoxLayout, QComboBox)
